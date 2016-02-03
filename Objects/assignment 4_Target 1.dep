@@ -1,0 +1,8 @@
+Dependencies for Project 'assignment 4', Target 'Target 1': (DO NOT MODIFY !)
+F (.\1436508628_101__compact_R.h)(0x55C1BD02)()
+F (.\1436508610_103__compact_coeff.h)(0x55C1BD0C)()
+F (.\Startup.s)(0x53470920)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 514"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\task1.c)(0x55C58588)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="514"-o .\objects\task1.o --omf_browse .\objects\task1.crf --depend .\objects\task1.d)
+I (1436508610_103__compact_coeff.h)(0x55C1BD0C)
+I (1436508628_101__compact_R.h)(0x55C1BD02)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5476D400)
